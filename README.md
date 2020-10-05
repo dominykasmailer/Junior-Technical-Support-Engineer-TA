@@ -1,6 +1,5 @@
 # Junior Technical Support Engineer Test Assignment
 
-### Notes
 Make **any** necesarry changes to **any files**
 
 ### Final evaluation
