@@ -12,6 +12,8 @@ It does not matter how you display the results, it can be anything:
 2. `echo "...\n";`
 3. `echo sprintf(...);`
 
+## Tasks
+
 ### Task 1
 1. Allow only unique subscriber emails in a group
 2. Throw an exception if an email is already used
