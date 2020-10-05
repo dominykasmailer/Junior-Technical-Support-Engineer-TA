@@ -8,9 +8,9 @@ The assignment will be tested by running `php index.php` on PHP7.4
 ### Displaying the results
 
 It does not matter how you display the results, it can be anything:
-1. `var_dump(...);
-2. `echo "...\n";
-3. `echo sprintf(...);
+1. `var_dump(...);`
+2. `echo "...\n";`
+3. `echo sprintf(...);`
 
 ### Task 1
 1. Allow only unique subscriber emails in a group
