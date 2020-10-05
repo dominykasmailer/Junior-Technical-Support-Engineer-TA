@@ -1,6 +1,6 @@
 # Junior Technical Support Engineer Test Assignment
 
-Make **any** necesarry changes to **any files**
+Make **any** necessary changes to **any files**
 
 ### Final evaluation
 The assignment will be tested by running `php index.php` on PHP7.4
