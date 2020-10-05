@@ -26,5 +26,5 @@ It does not matter how you display the results, it can be anything:
 ### Task 3
 1. Create a subscriber
 2. Add 3 custom fields to subscriber
-3. Display subscriber information
+3. Display subscriber's information
 4. Display subscriber's fields
